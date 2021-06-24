@@ -1,0 +1,20 @@
+{
+  "name": "jest-ts-tsx-resolver",
+  "version": "1.0.0",
+  "description": "Jest TypeScript Web-Compatible Resolver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etienne-dldc/jest-ts-tsx-resolver.git"
+  },
+  "keywords": [],
+  "author": "Etienne Dldc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etienne-dldc/jest-ts-tsx-resolver/issues"
+  },
+  "homepage": "https://github.com/etienne-dldc/jest-ts-tsx-resolver#readme"
+}
