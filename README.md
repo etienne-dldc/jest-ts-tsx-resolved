@@ -1,3 +1,9 @@
+# DEPRECATED
+
+I no longer use this module, and I will not maintain it.
+
+Feel free to fork it if you want to maintain it yourself.
+
 # Jest TypeScript Web-Compatible Resolver
 
 TypeScript allows importing other TypeScript files with a `.js` extension, for
